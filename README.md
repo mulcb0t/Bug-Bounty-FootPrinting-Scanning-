@@ -37,6 +37,8 @@ The main goal was to collect publicly available information, identify open ports
 
 ## Acces to the project:
 
+*Written in Slovak language*
+
 [FootPrinting & Scanning.pdf](./FootPrinting%20&%20Scanning.pdf)
 
 ## 🧑‍💻 Author

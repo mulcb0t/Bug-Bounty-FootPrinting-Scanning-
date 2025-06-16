@@ -41,6 +41,6 @@ The main goal was to collect publicly available information, identify open ports
 
 [FootPrinting & Scanning.pdf](./FootPrinting%20&%20Scanning.pdf)
 
-## 🧑‍💻 Author
+## Author
 
 Bc. Peter Mulik **(mulcb0t)**
